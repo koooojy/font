@@ -1,40 +1,70 @@
  @font-face {
-    font-family: 'NanumBarunGothic';
+    font-family: 'BMDOHYEON';
     font-weight: normal;
     font-style: normal;
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.eot');
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.woff') format('woff'),
-	url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.svg#NanumBarunGothic') format('svg'),
-        url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.ttf') format('truetype');
+    src: url('https://github.com/koooojy/font/blob/master/BMDOHYEON_ttf.eot');
+    src: url('https://github.com/koooojy/font/blob/master/BMDOHYEON_ttf.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/koooojy/font/blob/master/BMDOHYEON_ttf.woff') format('woff'),
+		 url('https://github.com/koooojy/font/blob/master/BMDOHYEON_ttf.svg#BMDOHYEON_ttf') format('svg'),
+         url('https://github.com/koooojy/font/blob/master/BMDOHYEON_ttf.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'NanumBarunGothicBold';
+    font-family: 'BMHANNA_11yrs';
     font-weight: 700;
     font-style: normal;
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.eot');
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.woff') format('woff'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.svg#NanumBarunGothicBold') format('svg'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.ttf') format('truetype');
+    src: url('https://github.com/koooojy/font/blob/master/BMHANNA_11yrs_ttf.eot');
+    src: url('https://github.com/koooojy/font/blob/master/BMHANNA_11yrs_ttf.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/koooojy/font/blob/master/BMHANNA_11yrs_ttf.woff') format('woff'),
+         url('https://github.com/koooojy/font/blob/master/BMHANNA_11yrs_ttf.svg#BMHANNA_11yrs_ttf') format('svg'),
+         url('https://github.com/koooojy/font/blob/master/BMHANNA_11yrs_ttf.ttf') format('truetype');
 }
 @font-face {
-	font-family: 'BM JUA';
+	font-family: 'BMHANNAAir';
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.eot');
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.eot?#iefix') format('embedded-opentype'),
-		url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.woff') format('woff'),
-		url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.svg#BM-JUA') format('svg'),
-		url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.ttf') format('truetype');
+	src: url('https://github.com/koooojy/font/blob/master/BMHANNAAir_ttf.eot');
+	src: url('https://github.com/koooojy/font/blob/master/BMHANNAAir_ttf.eot?#iefix') format('embedded-opentype'),
+		url('https://github.com/koooojy/font/blob/master/BMHANNAAir_ttf.woff') format('woff'),
+		url('https://github.com/koooojy/font/blob/master/BMHANNAAir_ttf.svg#BMHANNAAir_ttf') format('svg'),
+		url('https://github.com/koooojy/font/blob/master/BMHANNAAir_ttf.ttf') format('truetype');
 }
 @font-face {
-	font-family: 'BM HANNA';
+	font-family: 'BMHANNAPro';
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.eot');
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.eot?#iefix') format('embedded-opentype'),
-	        url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.woff') format('woff'),
-	        url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.svg#BM-HANNA') format('svg'),
-	        url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.ttf') format('truetype');
+	src: url('https://github.com/koooojy/font/blob/master/BMHANNAPro.eot');
+	src: url('https://github.com/koooojy/font/blob/master/BMHANNAPro.eot?#iefix') format('embedded-opentype'),
+	        url('https://github.com/koooojy/font/blob/master/BMHANNAPro.woff') format('woff'),
+	        url('https://github.com/koooojy/font/blob/master/BMHANNAPro.svg#BMHANNAPro') format('svg'),
+	        url('https://github.com/koooojy/font/blob/master/BMHANNAPro.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BMJUA';
+	font-weight: normal;
+	font-style: normal;
+	src: url('https://github.com/koooojy/font/blob/master/BMJUA_ttf.eot');
+	src: url('https://github.com/koooojy/font/blob/master/BMJUA_ttf.eot?#iefix') format('embedded-opentype'),
+	        url('https://github.com/koooojy/font/blob/master/BMJUA_ttf.woff') format('woff'),
+	        url('https://github.com/koooojy/font/blob/master/BMJUA_ttf.svg#BMJUA_ttf') format('svg'),
+	        url('https://github.com/koooojy/font/blob/master/BMJUA_ttf.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BMKIRANGHAERANG';
+	font-weight: normal;
+	font-style: normal;
+	src: url('https://github.com/koooojy/font/blob/master/BMKIRANGHAERANG-TTF.eot');
+	src: url('https://github.com/koooojy/font/blob/master/BMKIRANGHAERANG-TTF.eot?#iefix') format('embedded-opentype'),
+	        url('https://github.com/koooojy/font/blob/master/BMKIRANGHAERANG-TTF.woff') format('woff'),
+	        url('https://github.com/koooojy/font/blob/master/BMKIRANGHAERANG-TTF.svg#BMKIRANGHAERANG-TTF') format('svg'),
+	        url('https://github.com/koooojy/font/blob/master/BMKIRANGHAERANG-TTF.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BMYEONSUNG';
+	font-weight: normal;
+	font-style: normal;
+	src: url('https://github.com/koooojy/font/blob/master/BMYEONSUNG_ttf.eot');
+	src: url('https://github.com/koooojy/font/blob/master/BMYEONSUNG_ttf.eot?#iefix') format('embedded-opentype'),
+	        url('https://github.com/koooojy/font/blob/master/BMYEONSUNG_ttf.woff') format('woff'),
+	        url('https://github.com/koooojy/font/blob/master/BMYEONSUNG_ttf.svg#BMYEONSUNG_ttf') format('svg'),
+	        url('https://github.com/koooojy/font/blob/master/BMYEONSUNG_ttf.ttf') format('truetype');
 }
