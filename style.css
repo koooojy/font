@@ -5,7 +5,7 @@
     src: url('https://cdn.rawgit.com/koooojy/font/blob/master/BMDOHYEON_ttf.eot');
     src: url('https://cdn.rawgit.com/koooojy/font/blob/master/BMDOHYEON_ttf.eot?#iefix') format('embedded-opentype'),
          url('https://cdn.rawgit.com/koooojy/font/blob/master/BMDOHYEON_ttf.woff') format('woff'),
-		 url('https://cdn.rawgit.com/koooojy/font/blob/master/BMDOHYEON_ttf.svg#BMDOHYEON_ttf') format('svg'),
+		url('https://cdn.rawgit.com/koooojy/font/blob/master/BMDOHYEON_ttf.svg#BMDOHYEON_ttf') format('svg'),
          url('https://cdn.rawgit.com/koooojy/font/blob/master/BMDOHYEON_ttf.ttf') format('truetype');
 }
 @font-face {
